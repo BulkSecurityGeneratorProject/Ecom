@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.fis.ecommerce",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "Ecommerce",
+        "packageName": "com.fis.ecommerce",
+        "packageFolder": "com/fis/ecommerce",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "ZGFhM2UxZWRjZmQzYTNmNTc3MTgwOTVlM2QzMDJmNTFlZTJiZjkxMGE1Mzg4NGFiNzAyOTRjZGFiYTJkMDIxZGMyYTMwYTZkYjlkZTExMmFlZTU3MWQzYmY3MTcxYWYyNjQ3YzdjNzQ3MjYzOTRiNzA5YjBmZmY5MGZjMGNiZDE=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en"]
+    }
+}
